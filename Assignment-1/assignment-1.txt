@@ -24,3 +24,5 @@ d. Mine key
 Having same data in different machines in a distributed fashion helps to attain verifyability.
 A hash key will be generated for each new block added. If any one machine among 'n' machines have a wrong key, then other machines will share the correct key with them.
 Then all the keys will be same and the blocks will be verifiable.
+
+---------
